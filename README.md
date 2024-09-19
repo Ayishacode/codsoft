@@ -1,2 +1,2 @@
-# codsoft
+# projects
 python  projects 
